@@ -1,8 +1,0 @@
-Carnatic raga identifier: https://medium.com/@blogsupport/deep-learning-based-raga-classification-in-carnatic-music-e499018ea1b7
-
-Google Magenta: https://magenta.tensorflow.org/
-Google Magenta article: https://www.analyticsvidhya.com/blog/2020/11/generate-carnatic-music-with-google-magenta/
-
-train your own VST: https://colab.research.google.com/github/magenta/ddsp/blob/main/ddsp/colab/demos/Train_VST.ipynb
-
-Computational Music: https://computationalmusic.com/
