@@ -45,9 +45,10 @@ Specify the project's license, promoting openness while protecting your intellec
 Credit to ancient texts and scholars, contributions from the AI and music production community, and any other acknowledgments.
 
 ## Contact
-For further inquiries or collaboration requests please pm me on Git or email me at harrymoss33@gmail.com.
+For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
 
 ---
 
 This project is a testament to the fusion of ancient musical wisdom with cutting-edge AI technology, aiming to revolutionise how we experience and use music for both therapy and enjoyment.
 
+© 2024 Harry Moss. All Rights Reserved.
