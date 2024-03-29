@@ -17,7 +17,7 @@ Bhairagini AI is an innovative project blending the timeless principles of India
 - Docker for containerisation and easy deployment.
 
 ## How It Works
-1. **Data Analysis**: Utilizes GPT-4 to extract and summarise musical principles from Sangita Ratnakara and Natya Shastra.
+1. **Data Analysis**: Utilises GPT-4 to extract and summarise musical principles from Sangita Ratnakara and Natya Shastra.
 2. **Model Training**: Leverages deep learning to fuse traditional and contemporary music elements based on extracted principles.
 3. **Music Generation**: Generates MIDI sequences in real-time, adhering to the selected fusion genre and therapeutic guidelines.
 4. **DAW Integration**: MIDI output is compatible with DAWs like Logic Pro for further manipulation and production.
