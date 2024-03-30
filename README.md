@@ -25,9 +25,6 @@ Bhairagini AI is an innovative project blending the timeless principles of India
 ## Installation
 Instructions on setting up the project locally, including environment setup, dependencies, and running the application.
 
-## Usage
-Step-by-step guide on how to use Bhairagini AI, including generating music, selecting genres, and exporting MIDI files.
-
 Clone this repository to get started with Bhairagini AI. Ensure you have Python 3.8+ and pip installed.
 ```bash
 git clone https://github.com/yourusername/bhairagini-ai.git
@@ -35,17 +32,28 @@ cd bhairagini-ai
 pip install -r requirements.txt
 ```
 
+## Usage
+Step-by-step guide on how to use Bhairagini AI, including generating music, selecting genres, and exporting MIDI files.
+
 ## Contributing
-Encourage contributions and outline steps for submitting pull requests, reporting bugs, or suggesting enhancements.
+Contributions to improve Bhairagini AI are welcome. Please follow these steps to contribute:
+
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Commit your changes (git commit -am 'Add some feature').
+- Push to the branch (git push origin feature-branch).
+- Create a new Pull Request.
 
 ## License
-Specify the project's license, promoting openness while protecting your intellectual property.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
 ## Acknowledgments
 Credit to ancient texts and scholars, contributions from the AI and music production community, and any other acknowledgments.
 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
+
+Other AI/Digital Signal Processing projects can be found on my [GitHub Profile](https://github.com/HarryLMoss)
 
 ---
 
