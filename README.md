@@ -27,7 +27,7 @@ Instructions on setting up the project locally, including environment setup, dep
 
 Clone this repository to get started with Bhairagini AI. Ensure you have Python 3.8+ and pip installed.
 ```bash
-git clone https://github.com/yourusername/bhairagini-ai.git
+git clone https://github.com/harrylmoss/bhairagini-ai.git
 cd bhairagini-ai
 pip install -r requirements.txt
 ```
