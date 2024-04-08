@@ -47,8 +47,11 @@ Contributions to improve Bhairagini AI are welcome. Please follow these steps to
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
-## Acknowledgments
-Credit to ancient texts and scholars, contributions from the AI and music production community, and any other acknowledgments.
+## Acknowledgements
+I am grateful for the support and contributions from various individuals and organisations that made the "Bhairagini AI" project possible:
+
+- **The spaCy Team**, for their natural language processing library, essential in the textual analysis and information extraction phases of our project.
+- **The PyMuPDF Team**, whose library facilitated the conversion of our source texts from PDF to a processable format.
 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
