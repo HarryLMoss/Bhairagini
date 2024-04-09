@@ -57,7 +57,7 @@ I am grateful for the support and contributions from various individuals and org
 - **The Python Community**, for their extensive resources and forums, which were invaluable throughout the development process.
 - **The C++ Community**, for their shared knowledge and resources on C++ programming, greatly assisting in the technical aspects of our project.
 - **Ancient Scholars of Indian Classical Music**:
-  - **Sarngadeva**, credited with the authorship of the Sangita Ratnakara.
+  - **Sarangadeva**, credited with the authorship of the Sangita Ratnakara.
 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
