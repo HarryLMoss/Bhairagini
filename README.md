@@ -53,6 +53,7 @@ I am grateful for the support and contributions from various individuals and org
 - **The spaCy Team**, for their natural language processing library, essential in the textual analysis and information extraction phases of our project.
 - **The PyMuPDF Team**, whose library facilitated the conversion of our source texts from PDF to a processable format.
 - **OpenAI**, for the GPT models that inspired aspects of our machine learning approach.
+- **The JUCE Framework Team**, for their audio processing and GUI library, critical in developing our real-time music generation capabilities.
 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
