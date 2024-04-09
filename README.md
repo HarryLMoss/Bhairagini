@@ -55,6 +55,7 @@ I am grateful for the support and contributions from various individuals and org
 - **OpenAI**, for the GPT models that inspired aspects of our machine learning approach.
 - **The JUCE Framework Team**, for their audio processing and GUI library, critical in developing our real-time music generation capabilities.
 - **The Python Community**, for their extensive resources and forums, which were invaluable throughout the development process.
+- **The C++ Community**, for their shared knowledge and resources on C++ programming, greatly assisting in the technical aspects of our project.
 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
