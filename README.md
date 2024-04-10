@@ -59,6 +59,7 @@ I am grateful for the support and contributions from various individuals and org
 - **Ancient Scholars of Indian Classical Music**:
   - **Sarangadeva**, credited with the authorship of the Sangita Ratnakara.
   - **Bharata Muni**, attributed with the Natya Shastra, a foundational work on Indian performing arts.
+  - **Narada**, associated with the Naradiya Shiksha, which contributes significantly to the understanding of music and phonetics in Indian classical tradition.
 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
