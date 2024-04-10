@@ -61,6 +61,8 @@ I am grateful for the support and contributions from various individuals and org
   - **Bharata Muni**, attributed with the Natya Shastra, a foundational work on Indian performing arts.
   - **Narada**, associated with the Naradiya Shiksha, which contributes significantly to the understanding of music and phonetics in Indian classical tradition.
 
+Special thanks also to all open-source projects and developers for making their resources available, supporting innovative endeavors like this.
+
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
 
