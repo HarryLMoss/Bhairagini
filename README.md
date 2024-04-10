@@ -58,6 +58,7 @@ I am grateful for the support and contributions from various individuals and org
 - **The C++ Community**, for their shared knowledge and resources on C++ programming, greatly assisting in the technical aspects of our project.
 - **Ancient Scholars of Indian Classical Music**:
   - **Sarangadeva**, credited with the authorship of the Sangita Ratnakara.
+  - **Bharata Muni**, attributed with the Natya Shastra, a foundational work on Indian performing arts.
 
 ## Contact
 For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
