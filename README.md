@@ -22,7 +22,15 @@ Bhairagini AI is an innovative project blending the timeless principles of India
 3. **Music Generation**: Generates MIDI sequences in real-time, adhering to the selected fusion genre and therapeutic guidelines.
 4. **DAW Integration**: MIDI output is compatible with DAWs like Logic Pro for further manipulation and production.
 
+## Installation
+Instructions on setting up the project locally, including environment setup, dependencies, and running the application.
 
+Clone this repository to get started with Bhairagini AI. Ensure you have Python 3.8+ and pip installed.
+```bash
+git clone https://github.com/harrylmoss/bhairagini-ai.git
+cd bhairagini-ai
+pip install -r requirements.txt
+```
 
 ## Usage
 Step-by-step guide on how to use Bhairagini AI, including generating music, selecting genres, and exporting MIDI files.
