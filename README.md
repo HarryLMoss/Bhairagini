@@ -1,6 +1,5 @@
 # Bhairagini AI
 
-****PLEASE NOTE: This project is still in progress, files are in the process of being uploaded as we speak. Please check other available projects on this [link.](https://github.com/HarryLMoss) Thank you for your patience.***
 
 ## Overview
 Bhairagini AI is an innovative project blending the timeless principles of Indian classical music, as outlined in the Sangita Ratnakara and Natya Shastra, with contemporary, modern music genres. This AI-driven system generates therapeutic music, adhering to rules and guidelines from Indian classical music theory, tailoured for modern listeners through genres like Trap, EDM, Rock, Pop, Hip-hop, and Ambient. The scope of this project is to bridge the gap between both modern and classical music therapy with current trends in AI/ML.
