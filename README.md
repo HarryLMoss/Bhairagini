@@ -63,6 +63,10 @@ I am grateful for the support and contributions from various individuals and org
 
 Special thanks also to all open-source projects and developers for making their resources available, supporting innovative endeavors like this.
 
+## Contact
+For any inquiries or collaboration requests, please contact me at harrymoss33@gmail.com.
+
+Other AI/Digital Signal Processing projects can be found on my [GitHub Profile](https://github.com/HarryLMoss)
 
 ---
 
