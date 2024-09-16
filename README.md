@@ -47,19 +47,7 @@ Contributions to improve Bhairagini AI are welcome. Please follow these steps to
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.
 
-## Acknowledgements
-I am grateful for the support and contributions from various individuals and organisations that made the "Bhairagini AI" project possible:
 
-- **The spaCy Team**, for their natural language processing library, essential in the textual analysis and information extraction phases of our project.
-- **The PyMuPDF Team**, whose library facilitated the conversion of our source texts from PDF to a processable format.
-- **OpenAI**, for the GPT models that inspired aspects of our machine learning approach.
-- **The JUCE Framework Team**, for their audio processing and GUI library, critical in developing our real-time music generation capabilities.
-- **The Python Community**, for their extensive resources and forums, which were invaluable throughout the development process.
-- **The C++ Community**, for their shared knowledge and resources on C++ programming, greatly assisting in the technical aspects of our project.
-- **Ancient Scholars of Indian Classical Music**:
-  - **Sarangadeva**, credited with the authorship of the Sangita Ratnakara.
-  - **Bharata Muni**, attributed with the Natya Shastra, a foundational work on Indian performing arts.
-  - **Narada**, associated with the Naradiya Shiksha, which contributes significantly to the understanding of music and phonetics in Indian classical tradition.
 
 Special thanks also to all open-source projects and developers for making their resources available, supporting innovative endeavors like this.
 
